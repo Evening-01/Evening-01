@@ -1,54 +1,24 @@
-### 你好 👋<a href="https://github.com/Evening-01/"><img align="right" src="https://komarev.com/ghpvc/?username=Evening-01&label=Views"></a>
+# Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<table align="center">
-    <tr>
-        <td align="center">
-          <picture>
-            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=Evening-01&show_icons=true&include_all_commits=true">
-          </picture>
-        </td>
-        <td align="center">
-          <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=Evening-01&layout=compact&langs_count=12">
-          </picture>
-        </td>
-    </tr>
-</table>
+- 🔭 I’m currently working on something amazing
+- 📫 How to reach me: 2137862308@qq.com
+- ⚡ Fun fact: I am always working
+- 👨‍💻 Now in development: Evening
 
-### 推荐项目
+## 🔧 Technologies & Tools
 
-<table align="center">
-    <tr>
-        <td align="center">
-          <picture>
-            <a href="https://github.com/Evening-01/Counter-Compose">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=Evening-01&repo=Counter-Compose&show_owner=true">
-            </a>
-          </picture>
-        </td>
+### Languages
 
-    
-</table>
+![Kotlin](https://img.shields.io/badge/Kotlin-lightsteelblue?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python)
+![Lua](https://img.shields.io/badge/Lua-silver?style=for-the-badge&logo=lua)
 
-### 技能工具
+## &#x1f4c8; GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+![Evening-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evening-01&theme=rose&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evening-01&layout=compact&theme=rose)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Evening-01&theme=rose&hide_border=true&locale=zh_Hans&card_width=648)
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Evening-01&label=Profile%20views&color=1fa9ff&style=for-the-badge" alt="Evening-01" /> </p>
